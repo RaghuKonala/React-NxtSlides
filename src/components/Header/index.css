@@ -1,0 +1,29 @@
+.navbar {
+  height: 12vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #dbeafe;
+}
+
+.nav-content {
+  max-width: 1140px;
+  width: 80%;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.app-logo {
+  width: 80px;
+  height: 50px;
+}
+.app-name {
+  color: #0f172a;
+  font-size: 34px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+  margin-left: 20px;
+}
